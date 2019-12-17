@@ -1,0 +1,5 @@
+N-S TENANT VRF_TENAT_2 =========================================
+
+ACCESS-2
+
+ping routing-instance v95 77.18.1.1

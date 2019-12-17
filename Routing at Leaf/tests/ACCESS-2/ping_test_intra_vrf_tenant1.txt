@@ -1,0 +1,27 @@
+E-W Intra TENANT VRF_TENAT_1 =========================================
+
+ACCESS-2
+
+ping routing-instance v10 100.0.10.100
+ping routing-instance v10 100.0.20.100
+ping routing-instance v10 100.0.30.100
+ping routing-instance v10 100.0.80.108
+ping routing-instance v10 100.0.90.109
+
+ping routing-instance v20 100.0.10.100
+ping routing-instance v20 100.0.20.100
+ping routing-instance v20 100.0.30.100
+ping routing-instance v20 100.0.80.108
+ping routing-instance v20 100.0.90.109
+
+ping routing-instance v40 100.0.10.100
+ping routing-instance v40 100.0.20.100
+ping routing-instance v40 100.0.30.100
+ping routing-instance v40 100.0.80.108
+ping routing-instance v40 100.0.90.109
+
+ping routing-instance v85 100.0.10.100
+ping routing-instance v85 100.0.20.100
+ping routing-instance v85 100.0.30.100
+ping routing-instance v85 100.0.80.108
+ping routing-instance v85 100.0.90.109

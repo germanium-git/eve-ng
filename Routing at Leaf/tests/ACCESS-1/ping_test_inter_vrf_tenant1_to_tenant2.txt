@@ -1,0 +1,9 @@
+E-W Inter TENANT VRF_TENAT_1 to VRF_TENAT_2 ===================================
+
+ACCESS-1
+
+ping routing-instance v10 100.0.95.109
+ping routing-instance v20 100.0.95.109
+ping routing-instance v30 100.0.95.109
+ping routing-instance v80 100.0.95.109
+ping routing-instance v90 100.0.95.109
